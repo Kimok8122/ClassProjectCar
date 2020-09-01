@@ -8,7 +8,7 @@ namespace ClassProjectCar
         static void Main(string[] args)
         {
  
-            var Car1 = new Car();
+            Car Car1 = new Car();
             Car1.Make = "Honda";
             Car1.Model = "Civic";
             Car1.Year = 2017;
